@@ -1,0 +1,38 @@
+#carouselExampleControls .carousel-item img {
+    object-fit: cover;
+    object-position: center;
+    height: 65vh;
+    overflow: hidden;
+}
+#carouselExampleControls {
+    padding: 0% 3%;
+}
+.about-us , .about-us p ,.about-us h3{
+    display: flex;
+    align-items: center;
+    padding : 40px 20px;
+    color : #24252A;
+    text-align: justify;
+}
+
+
+.about-us-content {
+  padding : 20px ;
+  width: 50%;
+}
+
+.about-us-image img{
+    width : 100%;
+    height : auto;
+    transition: transform 0.2s 0.05s;
+    box-shadow:0 0 15px 4px;
+    border-radius:10px;
+}
+.about-us-image img:hover{
+    transform: scale(1.1);
+    transition-delay: 0s;
+    box-shadow:0 0 15px 4px #2E4053;
+}
+.about-us-image {
+    width: 50%;
+}

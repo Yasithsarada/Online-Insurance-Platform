@@ -1,0 +1,162 @@
+
+.footer {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;  
+    background-color:black;
+    font-family: 'Lora', serif;
+    font-size: 14.5px;
+    
+}
+.footer_customize  {
+    display : flex;
+    justify-content: center;
+    padding : 20px 10%;
+    padding-top:50px;
+    color : white;
+}
+.footer_customize h2{
+    color : white;
+}
+.footer_customize li {
+    
+    display : block;
+    list-style: none;
+    padding: 0px 0px;
+}
+.footer_customize li a {
+    text-decoration: none;
+}
+.decription-content {
+    margin : 1em 0px;
+}
+
+.col1 {
+    flex: 2;
+    margin-right:  20px;
+    text-align: justify;
+}
+
+.col2 {
+    flex: 1;
+    color: aliceblue;
+    margin :0px 2em;
+}
+.link-set li {
+    margin : 1em 0px;
+}
+.col2 a{
+    margin : 20px 0px;
+    color: azure;
+    padding : 10px 0px;
+}
+.col3 {
+    flex: 2;
+    margin :0px 2em;
+    
+}
+.col4 {
+    flex: 2;
+}
+
+
+.col3 img{
+    width: 30%;
+    height: auto;
+    padding: 10px 0px;
+    padding-right: 10px;
+    object-fit:scale-down;
+    justify-content: flex-start;
+    align-items: center;
+}
+.col3 ul {
+    margin : 1em 0px;
+}
+.col3 li a div  {
+    padding : 0px 0px;
+    color: azure;
+}
+.footr-crd {
+    justify-content: flex-start;
+    display : flex;
+    padding : 10px 10px;
+}
+.col4 p {
+    margin : 1em 0px;
+    padding : 10px 0px;
+    width: 100%;
+}
+.col4 button {
+    margin : 20px 10px;
+    padding : 10px 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid #0080a9;
+    background-color: inherit;
+    color: azure;
+    font-size:20px;
+    box-shadow:0 0 15px 4px #2E4053;
+    background-color:#0080a9;
+}
+.col4 button:hover {
+    background-color: #0080a9;
+}
+.newsL-sub {
+    width: 100%;
+    margin : 20px 10px;
+    margin-top: 1em;
+    background-color:aliceblue;
+    display: flex;
+    border-radius: 6px;
+    
+}
+.col4  input {
+    font-size: 16px;
+    background-color: aliceblue;
+    padding : 10px 10px;
+    width: 90%;
+    
+}
+#sub-btn {
+    font-size:40px;
+    color: black;
+    background-color:aliceblue;
+    margin-bottom: auto;
+    border : none;
+
+}
+#sub-btn:hover {
+    background-color: brown;
+}
+
+/* social media icons */
+
+.social-media-icons {
+    font-size: 28px;
+    margin : 20px;
+}
+.f-icon:hover {
+    color: #0B85EE;
+}
+.g-icon:hover {
+    color: #E34133;
+}
+.i-icon:hover{
+    color: #D62B6C;
+}
+.t-icon:hover {
+    color: #1DA1F2;
+}
+
+/*authority*/
+.authority {
+    color: azure;
+    text-align: center;
+    padding : 5px 0px;
+    font-size : 14px;
+    background-color :#1A1A1A;
+    height : 4.5em;
+}
+
+
+

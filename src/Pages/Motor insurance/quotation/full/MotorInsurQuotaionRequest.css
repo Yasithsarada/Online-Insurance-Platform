@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.form-part-fullQ {
+    
+    background-color:#F2F3F4;
+    padding: 10em 4em;
+    width: 100% ;
+    margin:  0em 5%;
+}
+.data-collection-part h2 {
+    text-align: center;
+    padding : 1em
+}
+.form1{
+    margin-left:2em;
+}
+.form{
+    width: 100%;
+    padding: 3.5em 1em;
+    font-weight: 500;
+    
+}
+#name-area {
+    display: flex;
+}
+.data-collection-part {
+  
+    width: 80%;
+    margin: 4em 5%;
+    border: 1px solid slategrey
+}

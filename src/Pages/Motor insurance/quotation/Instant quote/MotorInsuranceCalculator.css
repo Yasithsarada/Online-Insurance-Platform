@@ -1,0 +1,38 @@
+.instant-form_Content {
+    margin: 2em 4em;
+    padding:2em 4em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border: 1px solid lightslategrey;
+}
+/* .p1  {
+    background-color: aquamarine;
+    display: flex;
+} */
+.next-btn-q-cal {
+    
+    background-color:crimson;
+}
+.q-calc-btns {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.btn-q-cal {
+    margin: 0em 1em;
+}
+.steps {
+    margin: 1em 5%;
+}
+
+/*StepsConent3 styling start*/
+.price_view {
+    display: flex;
+}
+.pr-label {
+    flex: 2
+}
+.price-view {
+    float: left;
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/InsurancePlatform/static/css/main.f0b1b7f9.css",
+    "main.js": "/InsurancePlatform/static/js/main.b50416a7.js",
+    "static/media/se.jpg": "/InsurancePlatform/static/media/se.bd8530a7810ee34b1283.jpg",
+    "static/media/ab.webp": "/InsurancePlatform/static/media/ab.178e5eba477107f93933.webp",
+    "static/media/life-insu-02.jpg": "/InsurancePlatform/static/media/life-insu-02.8c9d173b48b402bb91cd.jpg",
+    "static/media/moa.jpg": "/InsurancePlatform/static/media/moa.90ffc0d7da9c640c6f4d.jpg",
+    "static/media/Life-Insurance-Retirement-1.jpg": "/InsurancePlatform/static/media/Life-Insurance-Retirement-1.71579ca94bb6d7dbfec7.jpg",
+    "static/media/life-ins.jpg": "/InsurancePlatform/static/media/life-ins.ee87659430ba15b49942.jpg",
+    "static/media/insurance-1.jpg": "/InsurancePlatform/static/media/insurance-1.f2f20bef3a4683b3de9d.jpg",
+    "static/media/50823123_101.jpg": "/InsurancePlatform/static/media/50823123_101.67048ea19f4582648a01.jpg",
+    "static/media/AudiRS4_1272.webp": "/InsurancePlatform/static/media/AudiRS4_1272.9f58627bbcad77b6d894.webp",
+    "static/media/skull.png": "/InsurancePlatform/static/media/skull.46cc62dba4a8dfb5cea1.png",
+    "index.html": "/InsurancePlatform/index.html",
+    "main.f0b1b7f9.css.map": "/InsurancePlatform/static/css/main.f0b1b7f9.css.map",
+    "main.b50416a7.js.map": "/InsurancePlatform/static/js/main.b50416a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b1b7f9.css",
+    "static/js/main.b50416a7.js"
+  ]
+}
