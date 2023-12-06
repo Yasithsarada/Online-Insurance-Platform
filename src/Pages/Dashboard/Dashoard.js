@@ -5,6 +5,7 @@ const Dashoard = () => {
     <>
     <h1>Dashboard</h1>
     </>
+    
   )
 }
 
