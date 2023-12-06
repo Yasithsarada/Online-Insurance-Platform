@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/InsurancePlatform/static/css/main.f0b1b7f9.css",
+    "main.css": "/InsurancePlatform/static/css/main.e63d3959.css",
     "main.js": "/InsurancePlatform/static/js/main.b50416a7.js",
     "static/media/se.jpg": "/InsurancePlatform/static/media/se.bd8530a7810ee34b1283.jpg",
     "static/media/ab.webp": "/InsurancePlatform/static/media/ab.178e5eba477107f93933.webp",
@@ -13,11 +13,11 @@
     "static/media/AudiRS4_1272.webp": "/InsurancePlatform/static/media/AudiRS4_1272.9f58627bbcad77b6d894.webp",
     "static/media/skull.png": "/InsurancePlatform/static/media/skull.46cc62dba4a8dfb5cea1.png",
     "index.html": "/InsurancePlatform/index.html",
-    "main.f0b1b7f9.css.map": "/InsurancePlatform/static/css/main.f0b1b7f9.css.map",
+    "main.e63d3959.css.map": "/InsurancePlatform/static/css/main.e63d3959.css.map",
     "main.b50416a7.js.map": "/InsurancePlatform/static/js/main.b50416a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0b1b7f9.css",
+    "static/css/main.e63d3959.css",
     "static/js/main.b50416a7.js"
   ]
 }
